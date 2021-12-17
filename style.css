@@ -1,0 +1,120 @@
+.font {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  font-size: 14px;
+}
+.logo {
+  width: 30%;
+}
+.srch {
+  width: 17rem;
+  border: 1px solid rgba(19, 19, 19, 0.3);
+  height: 2rem;
+  margin-left: 2rem;
+  padding-top: 0.1rem;
+}
+.trans-gray {
+  color: rgba(19, 19, 19, 0.5);
+}
+input:focus {
+  outline: none;
+}
+input {
+  width: 89%;
+}
+.pp {
+  width: 32px;
+  height: 32px;
+}
+/* .nav-icons{
+  width: 1.5rem;
+} */
+li.navli {
+  margin-right: 1.2rem;
+  
+
+}
+.navigasyon {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 999999;
+}
+.m-main {
+  margin-top: 6rem;
+}
+.story-li {
+  text-align: center;
+  margin-right: 1rem;
+}
+section {
+  width: 960px;
+}
+.story {
+  height: 7rem;
+  width: 64%;
+}
+.main-body {
+  width: 64%;
+}
+.id:hover {
+  color: black;
+  text-decoration: underline;
+}
+.id {
+  font: bold;
+  text-decoration: none;
+  color: black;
+  
+}
+
+#deneme {
+  margin-left: 0px !important;
+}
+.bot-liketc {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
+#comment {
+  width: 33rem;
+}
+#aq {
+  padding: 0px !important;
+  margin: 0px !important;
+  border-bottom: 1px solid !important;
+}
+#aside {
+  width: 25%;
+  
+  bottom: auto;
+  position: fixed;
+  left: 62%;
+  top: 10%;
+}
+.fsize12 {
+  font-size: 12px !important;
+}
+.bolding {
+  font-weight: 600;
+}
+
+.overflow {
+  overflow-wrap: break-word;
+}
+.fsize11 {
+  font-size: 11px;
+}
+
+.analogo {
+  width: 100px;
+  margin-left: 90px;
+}
+ li.inf:before {
+  content: "\ffed";
+  
+  font-size: 6px;
+}
+li>a.text-decoration-none.trans-gray:hover{
+  color: rgba(19, 19, 19, 0.5);
+}
